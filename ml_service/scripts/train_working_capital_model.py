@@ -8,7 +8,7 @@ def train_model():
     print("--- Запуск обучения CatBoost для Оборотного кредита ---")
 
     # 1. Загружаем датасет
-    df = pd.read_csv("data/working_capital_training.csv")
+    df = pd.read_csv("../data/working_capital_training.csv")
     print(f"Загружено строк: {len(df)}")
     print(f"Баланс классов (доли дефолтов): {df['target_default_12m'].mean() * 100:.2f}%\n")
 
@@ -63,7 +63,7 @@ def train_model():
     print(feature_importances.to_string(index=False))
 
     # 7. Сохраняем модель
-    model_filename = "models/catboost_working_capital.cbm"
+    model_filename = "../models/catboost_working_capital.cbm"
     model.save_model(model_filename)
     print(f"\n[УСПЕХ] Модель успешно сохранена в файл: {model_filename}")
 

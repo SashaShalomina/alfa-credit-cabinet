@@ -18,10 +18,10 @@ def calculate_annuity_payment(principal, annual_rate, months):
     return payment
 
 
-def build_investment_csv():
-    print("--- Запуск сборщика датасета: Инвестиционный кредит (сбалансированный) ---")
+def build_modernization_csv():
+    print("--- Запуск сборщика датасета: Кредит на Модернизацию ---")
 
-    features_list = load_json("data/company_features.json")
+    features_list = load_json("../data/company_features.json")
     if not features_list:
         print("[ОШИБКА] Сначала заполни company_features.json!")
         return
@@ -33,12 +33,12 @@ def build_investment_csv():
         if comp["business_age_months"] < 12:
             continue
 
-        # Адаптируем суммы под масштаб выручки компании (от 500 тыс. до 4 млн ₽)
-        max_possible_loan = min(4_000_000, comp["avg_monthly_revenue_12m"] * 6)
-        requested_amount = np.random.uniform(300_000, max(500_000, max_possible_loan))
+        # Параметры льготного кредита на модернизацию
+        max_possible_loan = min(5_000_000, comp["avg_monthly_revenue_12m"] * 5)
+        requested_amount = np.random.uniform(500_000, max(600_000, max_possible_loan))
 
-        requested_term_months = np.random.choice([12, 24, 36, 48, 60])  # Срок: 12 – 60 мес.
-        annual_interest_rate = 14.0  # Ставка 14%
+        requested_term_months = np.random.choice([12, 24, 36])  # Срок: 1 – 3 года
+        annual_interest_rate = 10.0  # Льготная ставка 10%
 
         new_monthly_loan_payment = calculate_annuity_payment(
             requested_amount, annual_interest_rate, requested_term_months
@@ -47,28 +47,30 @@ def build_investment_csv():
         # Денежный остаток
         net_cash_after_all_debts = comp["net_cash_base"] - new_monthly_loan_payment
 
-        # СКОРИНГОВАЯ СИСТЕМА ДЛЯ ИНВЕСТИЦИЙ
+        # СКОРИНГОВАЯ СИСТЕМА ДЛЯ МОДЕРНИЗАЦИИ
         risk_score = 0
 
         if net_cash_after_all_debts < 0:
-            risk_score += 4
-        elif net_cash_after_all_debts < new_monthly_loan_payment * 1.3:
+            risk_score += 5
+        elif net_cash_after_all_debts < new_monthly_loan_payment * 1.4:
             risk_score += 2
+
+        # Для модернизации критично, чтобы операционная прибыль была положительной
+        if comp["total_operating_profit_12m"] < 0:
+            risk_score += 4
 
         if comp["delinquency_count_12m"] > 0:
             risk_score += 3
         if comp["max_delinquency_days_12m"] > 30:
             risk_score += 3
 
-        if comp["revenue_growth_rate"] < -0.1:
+        if comp["revenue_growth_rate"] < -0.05:
             risk_score += 2
-        if comp["revenue_volatility_std"] > comp["avg_monthly_revenue_12m"] * 0.25:
-            risk_score += 1
 
-        # Порог дефолта поднят, чтобы доля была ~15-20%
-        noise = np.random.normal(0, 0.7)
+        # Подбираем порог так, чтобы выйти на целевые ~15-20% дефолтов
+        noise = np.random.normal(0, 0.6)
         effective_score = risk_score + noise
-        target_default_12m = 1 if effective_score >= 6.3 else 0
+        target_default_12m = 1 if effective_score >= 7.5 else 0
 
         dataset_rows.append({
             "business_age_months": comp["business_age_months"],
@@ -87,13 +89,13 @@ def build_investment_csv():
         })
 
     df = pd.DataFrame(dataset_rows)
-    output_filename = "data/investment_training.csv"
+    output_filename = "../data/modernization_training.csv"
     df.to_csv(output_filename, index=False, encoding='utf-8')
 
-    print(f"[УСПЕХ] Датасет для инвестиционного кредита сохранен: {output_filename}")
+    print(f"[УСПЕХ] Датасет для модернизации сохранен: {output_filename}")
     print(f"Всего строк: {len(df)}")
     print(f"Доля дефолтов: {df['target_default_12m'].mean() * 100:.2f}%\n")
 
 
 if __name__ == "__main__":
-    build_investment_csv()
+    build_modernization_csv()

@@ -96,13 +96,13 @@ def generate_raw_data(n_companies=1000):
         })
 
     # Сохраняем всё в три JSON файла
-    with open("data/companies.json", "w", encoding="utf-8") as f:
+    with open("../data/companies.json", "w", encoding="utf-8") as f:
         json.dump(companies, f, ensure_ascii=False, indent=2)
 
-    with open("data/financial_statements.json", "w", encoding="utf-8") as f:
+    with open("../data/financial_statements.json", "w", encoding="utf-8") as f:
         json.dump(financial_statements, f, ensure_ascii=False, indent=2)
 
-    with open("data/credit_history.json", "w", encoding="utf-8") as f:
+    with open("../data/credit_history.json", "w", encoding="utf-8") as f:
         json.dump(credit_history, f, ensure_ascii=False, indent=2)
 
     print("[УСПЕХ] Шаг 1 завершен! Созданы файлы:")

@@ -21,7 +21,7 @@ def calculate_annuity_payment(principal, annual_rate, months):
 def build_training_csv():
     print("--- Запуск сборщика датасета с реалистичным уровнем дефолтов ---")
 
-    features_list = load_json("data/company_features.json")
+    features_list = load_json("../data/company_features.json")
     if not features_list:
         print("[ОШИБКА] Сначала заполни company_features.json!")
         return
@@ -82,7 +82,7 @@ def build_training_csv():
         })
 
     df = pd.DataFrame(dataset_rows)
-    output_filename = "data/working_capital_training.csv"
+    output_filename = "../data/working_capital_training.csv"
     df.to_csv(output_filename, index=False, encoding='utf-8')
 
     print(f"[УСПЕХ] Обучающий датасет обновлен: {output_filename}")

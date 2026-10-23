@@ -19,9 +19,9 @@ def save_json(filepath, data):
 def run_feature_pipeline():
     print("--- Запуск пайплайна: JSON -> company_features.json ---")
 
-    companies = load_json("data/companies.json")
-    statements_data = load_json("data/financial_statements.json")
-    credit_data = load_json("data/credit_history.json")
+    companies = load_json("../data/companies.json")
+    statements_data = load_json("../data/financial_statements.json")
+    credit_data = load_json("../data/credit_history.json")
 
     statements_map = {item["inn"]: item["statements"] for item in statements_data}
     credit_map = {item["inn"]: item for item in credit_data}
@@ -79,7 +79,7 @@ def run_feature_pipeline():
         }
         all_features.append(feature_record)
 
-    save_json("data/company_features.json", all_features)
+    save_json("../data/company_features.json", all_features)
     print(f"[УСПЕХ] Файл data/company_features.json успешно сформирован ({len(all_features)} записей).\n")
 
 

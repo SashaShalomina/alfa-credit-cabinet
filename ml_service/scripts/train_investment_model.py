@@ -4,11 +4,11 @@ from sklearn.metrics import roc_auc_score, classification_report, confusion_matr
 from catboost import CatBoostClassifier
 
 
-def train_modernization_model():
-    print("--- Запуск обучения CatBoost для Кредита на Модернизацию ---")
+def train_investment_model():
+    print("--- Запуск обучения CatBoost для Инвестиционного кредита ---")
 
     # 1. Загружаем датасет
-    df = pd.read_csv("data/modernization_training.csv")
+    df = pd.read_csv("../data/investment_training.csv")
     print(f"Загружено строк: {len(df)}")
     print(f"Баланс классов (доли дефолтов): {df['target_default_12m'].mean() * 100:.2f}%\n")
 
@@ -40,7 +40,7 @@ def train_modernization_model():
     )
 
     # 5. Оценка качества
-    print("\n--- Оценка качества модели модернизации ---")
+    print("\n--- Оценка качества инвестиционной модели ---")
     y_pred_proba = model.predict_proba(X_test)[:, 1]
     y_pred = model.predict(X_test)
 
@@ -63,10 +63,10 @@ def train_modernization_model():
     print(feature_importances.to_string(index=False))
 
     # 7. Сохранение модели
-    model_filename = "models/catboost_modernization.cbm"
+    model_filename = "../models/catboost_investment.cbm"
     model.save_model(model_filename)
     print(f"\n[УСПЕХ] Модель успешно сохранена в файл: {model_filename}")
 
 
 if __name__ == "__main__":
-    train_modernization_model()
+    train_investment_model()
