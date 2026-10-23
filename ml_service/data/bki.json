@@ -37,21 +37,21 @@
   {
     "inn": "7700000006",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 59096.49,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 94166.45,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000007",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 210534.74,
+    "active_monthly_loan_payments": 37787.76,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000008",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 141734.27,
+    "active_monthly_loan_payments": 287068.46,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -65,44 +65,44 @@
   {
     "inn": "7700000010",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 39379.51,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000011",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 107280.56,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000012",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 28795.63,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000013",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 204515.17,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000014",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 149535.86,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000015",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 230998.34,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 36417.91,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000016",
@@ -114,42 +114,42 @@
   {
     "inn": "7700000017",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 289018.09,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 53568.25,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000018",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 207523.27,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000019",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 88399.64,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000020",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 205748.84,
+    "active_monthly_loan_payments": 78976.3,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000021",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 227544.65,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000022",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 284614.26,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -163,21 +163,21 @@
   {
     "inn": "7700000024",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 70220.99,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000025",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 26626.04,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000026",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 187039.95,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -191,21 +191,21 @@
   {
     "inn": "7700000028",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 215218.36,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000029",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 143700.08,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000030",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 249158.57,
+    "active_monthly_loan_payments": 88555.91,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -219,7 +219,7 @@
   {
     "inn": "7700000032",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 89775.52,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -233,9 +233,9 @@
   {
     "inn": "7700000034",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 270047.51,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 134127.82,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000035",
@@ -247,119 +247,119 @@
   {
     "inn": "7700000036",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 96421.89,
+    "active_monthly_loan_payments": 55735.78,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000037",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 140011.58,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000038",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 89239.33,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000039",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 285371.97,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000040",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 236294.65,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000041",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 139945.84,
+    "active_monthly_loan_payments": 289020.52,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000042",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 246295.78,
+    "active_monthly_loan_payments": 88738.65,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000043",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 28036.0,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000044",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 232286.1,
+    "active_monthly_loan_payments": 102385.96,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000045",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 53475.33,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000046",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 218245.18,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000047",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 250192.38,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000048",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 196244.8,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000049",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 193887.65,
+    "active_monthly_loan_payments": 87162.25,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000050",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 100669.37,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000051",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 241936.0,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000052",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 84098.84,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -373,28 +373,28 @@
   {
     "inn": "7700000054",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 284654.19,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 44656.74,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000055",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 121298.22,
+    "active_monthly_loan_payments": 100648.16,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000056",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 174234.92,
+    "active_monthly_loan_payments": 253000.09,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000057",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 174354.22,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -408,16 +408,16 @@
   {
     "inn": "7700000059",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 259683.63,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000060",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 256611.04,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000061",
@@ -429,37 +429,37 @@
   {
     "inn": "7700000062",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 293934.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000063",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 42111.14,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000064",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 116758.37,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000065",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 252410.52,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000066",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 73236.96,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000067",
@@ -471,7 +471,7 @@
   {
     "inn": "7700000068",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 290620.06,
+    "active_monthly_loan_payments": 171034.17,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -492,30 +492,30 @@
   {
     "inn": "7700000071",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 227835.32,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 59137.56,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000072",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 131479.1,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000073",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 263514.72,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000074",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 110656.01,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 296869.85,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000075",
@@ -527,14 +527,14 @@
   {
     "inn": "7700000076",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 237844.77,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000077",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 212107.3,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -548,23 +548,23 @@
   {
     "inn": "7700000079",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 119007.46,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000080",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 83324.55,
+    "active_monthly_loan_payments": 36794.67,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000081",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 263561.56,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 203886.16,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000082",
@@ -576,44 +576,44 @@
   {
     "inn": "7700000083",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 51049.14,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000084",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 159267.89,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000085",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 140199.6,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000086",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 132125.95,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 140583.4,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000087",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 91671.1,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 133409.05,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000088",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 151297.9,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 113259.21,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000089",
@@ -625,21 +625,21 @@
   {
     "inn": "7700000090",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 39120.15,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000091",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 187408.04,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000092",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 117949.82,
+    "active_monthly_loan_payments": 48980.53,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -653,7 +653,7 @@
   {
     "inn": "7700000094",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 42820.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -674,7 +674,7 @@
   {
     "inn": "7700000097",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 199530.13,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -688,7 +688,7 @@
   {
     "inn": "7700000099",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 30724.89,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -709,7 +709,7 @@
   {
     "inn": "7700000102",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 61865.49,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -730,28 +730,28 @@
   {
     "inn": "7700000105",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 119952.77,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000106",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 57758.72,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000107",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 213134.15,
+    "active_monthly_loan_payments": 119952.77,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000108",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 190120.41,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -765,9 +765,9 @@
   {
     "inn": "7700000110",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 298982.23,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 163664.09,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000111",
@@ -786,23 +786,23 @@
   {
     "inn": "7700000113",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 108767.75,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 44581.41,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000114",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 76274.5,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000115",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 180972.14,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000116",
@@ -814,58 +814,58 @@
   {
     "inn": "7700000117",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 150043.8,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000118",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 59445.74,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000119",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 148024.58,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 60
-  },
-  {
-    "inn": "7700000120",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 32667.87,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 30
-  },
-  {
-    "inn": "7700000121",
     "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
-    "inn": "7700000122",
+    "inn": "7700000120",
     "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
+  },
+  {
+    "inn": "7700000121",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 262286.1,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
+  },
+  {
+    "inn": "7700000122",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 98779.77,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000123",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 112747.09,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 174902.42,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000124",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 31271.37,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000125",
@@ -884,51 +884,51 @@
   {
     "inn": "7700000127",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 117664.89,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000128",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 278722.7,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000129",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 85194.24,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000130",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 235243.0,
+    "active_monthly_loan_payments": 117664.89,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000131",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 229720.9,
+    "active_monthly_loan_payments": 278722.7,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000132",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 73987.19,
-    "delinquency_count_12m": 1,
+    "active_monthly_loan_payments": 85194.24,
+    "delinquency_count_12m": 2,
     "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000133",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 132233.31,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 36565.52,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000134",
@@ -947,23 +947,23 @@
   {
     "inn": "7700000136",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 259721.02,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000137",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 183089.01,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000138",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 26095.73,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000139",
@@ -982,14 +982,14 @@
   {
     "inn": "7700000141",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 63433.98,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000142",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 142909.59,
+    "active_monthly_loan_payments": 298354.62,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1003,107 +1003,107 @@
   {
     "inn": "7700000144",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 166849.66,
+    "active_monthly_loan_payments": 208579.96,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000145",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 168397.71,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000146",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 245302.17,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000147",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 104140.27,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000148",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 244788.65,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000149",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 126355.14,
+    "active_monthly_loan_payments": 42139.72,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000150",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 78488.94,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000151",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 81241.51,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000152",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 160620.49,
+    "active_monthly_loan_payments": 135900.45,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000153",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 215226.17,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000154",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 167884.57,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 90
-  },
-  {
-    "inn": "7700000155",
     "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000155",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 161605.22,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
+  },
+  {
     "inn": "7700000156",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 228727.84,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000157",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 174850.56,
+    "active_monthly_loan_payments": 88098.21,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000158",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 49834.26,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000159",
@@ -1115,30 +1115,30 @@
   {
     "inn": "7700000160",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 60861.75,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 177908.3,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000161",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 189447.25,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000162",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 109358.55,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000163",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 233177.02,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000164",
@@ -1150,56 +1150,56 @@
   {
     "inn": "7700000165",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 270740.42,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000166",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 113726.14,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000167",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 299356.76,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000168",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 38808.82,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 218342.77,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000169",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 71646.5,
+    "active_monthly_loan_payments": 187421.48,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000170",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 264154.21,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 191549.81,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000171",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 149657.7,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000172",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 72011.04,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1213,30 +1213,30 @@
   {
     "inn": "7700000174",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 238607.26,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000175",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 226076.84,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 148114.12,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000176",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 219011.11,
+    "active_monthly_loan_payments": 53001.26,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000177",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 260244.72,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 100873.74,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000178",
@@ -1255,77 +1255,77 @@
   {
     "inn": "7700000180",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 291076.0,
+    "active_monthly_loan_payments": 248684.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000181",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 118228.33,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000182",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 203284.63,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 203650.96,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000183",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 22257.52,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000184",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 205960.27,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000185",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 271046.02,
+    "active_monthly_loan_payments": 211114.54,
     "delinquency_count_12m": 1,
     "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000186",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 120921.91,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000187",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 214767.19,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000188",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 93411.88,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 298023.24,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000189",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 246256.82,
+    "active_monthly_loan_payments": 224402.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000190",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 190473.07,
+    "active_monthly_loan_payments": 164969.76,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1339,21 +1339,21 @@
   {
     "inn": "7700000192",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 278322.2,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000193",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 277663.43,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000194",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 132258.96,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1374,77 +1374,77 @@
   {
     "inn": "7700000197",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 162470.97,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000198",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 108202.5,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000199",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 256557.02,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000200",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 89501.26,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000201",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 23347.94,
+    "active_monthly_loan_payments": 77454.42,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000202",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 57383.88,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000203",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 119104.11,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 40912.48,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000204",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 267702.7,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000205",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 81325.65,
+    "active_monthly_loan_payments": 286587.05,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000206",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 298989.77,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000207",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 31954.97,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1458,9 +1458,9 @@
   {
     "inn": "7700000209",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 104494.24,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000210",
@@ -1472,35 +1472,35 @@
   {
     "inn": "7700000211",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 178354.07,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000212",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 89871.44,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 178942.38,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000213",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 244678.84,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000214",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 110328.9,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000215",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 175151.48,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1521,49 +1521,49 @@
   {
     "inn": "7700000218",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 116261.59,
+    "active_monthly_loan_payments": 126039.52,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000219",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 67629.46,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000220",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 292831.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000221",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 131259.4,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000222",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 199722.59,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000223",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 171605.72,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000224",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 157653.38,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1577,35 +1577,35 @@
   {
     "inn": "7700000226",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 131259.4,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000227",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 144908.96,
+    "active_monthly_loan_payments": 49577.75,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000228",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 81978.3,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 266108.14,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000229",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 292781.44,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000230",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 107114.47,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1626,7 +1626,7 @@
   {
     "inn": "7700000233",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 238485.03,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1647,7 +1647,7 @@
   {
     "inn": "7700000236",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 179433.0,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1682,14 +1682,14 @@
   {
     "inn": "7700000241",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 169725.36,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000242",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 165686.59,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1717,63 +1717,63 @@
   {
     "inn": "7700000246",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 194105.97,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000247",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 214927.56,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
-  },
-  {
-    "inn": "7700000248",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 156674.38,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000248",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 49753.84,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
+  },
+  {
     "inn": "7700000249",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 180762.77,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000250",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 101358.81,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000251",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 85800.0,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000252",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 223395.11,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000253",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 204006.82,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000254",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 220719.71,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1794,35 +1794,35 @@
   {
     "inn": "7700000257",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 131403.6,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 175996.68,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000258",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 78719.55,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
-  },
-  {
-    "inn": "7700000259",
     "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000259",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 59325.77,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
+  },
+  {
     "inn": "7700000260",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 239949.01,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000261",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 201193.44,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1836,7 +1836,7 @@
   {
     "inn": "7700000263",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 289493.07,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1850,7 +1850,7 @@
   {
     "inn": "7700000265",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 172062.44,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1864,14 +1864,14 @@
   {
     "inn": "7700000267",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 164722.99,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000268",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 207693.84,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1885,9 +1885,9 @@
   {
     "inn": "7700000270",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 53125.61,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000271",
@@ -1906,9 +1906,9 @@
   {
     "inn": "7700000273",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 222713.17,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000274",
@@ -1920,14 +1920,14 @@
   {
     "inn": "7700000275",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 39546.49,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000276",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 24729.47,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1941,9 +1941,9 @@
   {
     "inn": "7700000278",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 30263.77,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000279",
@@ -1962,14 +1962,14 @@
   {
     "inn": "7700000281",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 291163.59,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000282",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 248826.29,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -1990,21 +1990,21 @@
   {
     "inn": "7700000285",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 162915.36,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000286",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 224961.25,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000287",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 272450.3,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2018,21 +2018,21 @@
   {
     "inn": "7700000289",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 234440.49,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000290",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 121435.54,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 253342.2,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000291",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 105862.86,
+    "active_monthly_loan_payments": 221473.24,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2046,37 +2046,37 @@
   {
     "inn": "7700000293",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 127611.28,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000294",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 239508.64,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000295",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 24302.63,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000296",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 133997.7,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000297",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 122380.35,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000298",
@@ -2088,7 +2088,7 @@
   {
     "inn": "7700000299",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 198045.45,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2102,7 +2102,7 @@
   {
     "inn": "7700000301",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 295630.51,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2116,14 +2116,14 @@
   {
     "inn": "7700000303",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 191663.53,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 133997.7,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000304",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 86025.45,
+    "active_monthly_loan_payments": 149001.72,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2137,7 +2137,7 @@
   {
     "inn": "7700000306",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 176097.62,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2151,7 +2151,7 @@
   {
     "inn": "7700000308",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 295630.51,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2165,37 +2165,37 @@
   {
     "inn": "7700000310",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 191663.53,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000311",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 86025.45,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000312",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 291471.83,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000313",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 122419.33,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 176898.01,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000314",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 84740.31,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000315",
@@ -2214,7 +2214,7 @@
   {
     "inn": "7700000317",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 115735.6,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2228,28 +2228,28 @@
   {
     "inn": "7700000319",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 128954.43,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000320",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 197214.51,
+    "active_monthly_loan_payments": 45075.13,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000321",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 212064.5,
+    "active_monthly_loan_payments": 234443.38,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000322",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 74030.28,
+    "active_monthly_loan_payments": 87077.31,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2263,37 +2263,37 @@
   {
     "inn": "7700000324",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 80812.66,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000325",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 46951.76,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000326",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 189667.01,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000327",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 105093.27,
+    "active_monthly_loan_payments": 34584.5,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000328",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 235823.16,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000329",
@@ -2305,35 +2305,35 @@
   {
     "inn": "7700000330",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 289262.5,
+    "active_monthly_loan_payments": 117346.11,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000331",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 25241.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000332",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 46951.76,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000333",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 122579.13,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000334",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 202778.17,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2347,28 +2347,28 @@
   {
     "inn": "7700000336",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 215403.74,
+    "active_monthly_loan_payments": 132436.01,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000337",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 172775.35,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000338",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 32565.71,
+    "active_monthly_loan_payments": 82128.28,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000339",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 104084.68,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2382,7 +2382,7 @@
   {
     "inn": "7700000341",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 258583.22,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2396,28 +2396,28 @@
   {
     "inn": "7700000343",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 215403.74,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000344",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 127017.99,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000345",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 58670.7,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000346",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 116115.98,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2431,14 +2431,14 @@
   {
     "inn": "7700000348",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 258596.24,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000349",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 75685.06,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2452,42 +2452,42 @@
   {
     "inn": "7700000351",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 224369.11,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000352",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 164751.5,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000353",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 147311.3,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 255066.3,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000354",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 67847.79,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000355",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 194316.89,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 128488.88,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000356",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 196017.92,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2501,16 +2501,16 @@
   {
     "inn": "7700000358",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 126103.02,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000359",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 164751.5,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000360",
@@ -2522,72 +2522,72 @@
   {
     "inn": "7700000361",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 113461.83,
+    "active_monthly_loan_payments": 241498.65,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000362",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 224445.29,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000363",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 80724.68,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000364",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 60704.84,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000365",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 260189.45,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000366",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 161678.51,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000367",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 222879.78,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 257383.43,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000368",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 232378.27,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000369",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 171908.04,
+    "active_monthly_loan_payments": 104079.52,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000370",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 35063.97,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 58011.09,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000371",
@@ -2613,37 +2613,37 @@
   {
     "inn": "7700000374",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 193844.95,
+    "active_monthly_loan_payments": 295036.57,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000375",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 234530.45,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000376",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 194424.59,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000377",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 151805.96,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000378",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 45000.47,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000379",
@@ -2655,9 +2655,9 @@
   {
     "inn": "7700000380",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 264365.99,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 38302.26,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000381",
@@ -2669,30 +2669,30 @@
   {
     "inn": "7700000382",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 279438.05,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000383",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 41905.69,
+    "active_monthly_loan_payments": 50448.5,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000384",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 163545.67,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000385",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 67342.19,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 45000.47,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000386",
@@ -2711,7 +2711,7 @@
   {
     "inn": "7700000388",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 131648.54,
+    "active_monthly_loan_payments": 240899.96,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2725,9 +2725,9 @@
   {
     "inn": "7700000390",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 209081.51,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000391",
@@ -2753,21 +2753,21 @@
   {
     "inn": "7700000394",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 216216.96,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000395",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 181772.07,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000396",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 93535.04,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2788,7 +2788,7 @@
   {
     "inn": "7700000399",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 27102.09,
+    "active_monthly_loan_payments": 45743.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2802,7 +2802,7 @@
   {
     "inn": "7700000401",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 25337.64,
+    "active_monthly_loan_payments": 40719.18,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2823,7 +2823,7 @@
   {
     "inn": "7700000404",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 47991.0,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2837,9 +2837,9 @@
   {
     "inn": "7700000406",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 129229.32,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000407",
@@ -2851,14 +2851,14 @@
   {
     "inn": "7700000408",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 90386.9,
+    "active_monthly_loan_payments": 182216.8,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000409",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 229184.29,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2872,14 +2872,14 @@
   {
     "inn": "7700000411",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 136243.21,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000412",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 259952.65,
+    "active_monthly_loan_payments": 44959.55,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -2893,28 +2893,28 @@
   {
     "inn": "7700000414",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 230862.03,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 195409.99,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000415",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 236113.8,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
-  },
-  {
-    "inn": "7700000416",
     "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000416",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 229184.29,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
+  },
+  {
     "inn": "7700000417",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 150298.81,
+    "active_monthly_loan_payments": 190641.39,
     "delinquency_count_12m": 2,
     "max_delinquency_days_12m": 30
   },
@@ -2935,9 +2935,9 @@
   {
     "inn": "7700000420",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 288311.82,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000421",
@@ -2949,107 +2949,107 @@
   {
     "inn": "7700000422",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 147355.42,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000423",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 287739.88,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000424",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 71659.04,
+    "active_monthly_loan_payments": 122365.44,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000425",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 21202.41,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000426",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 51448.37,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000427",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 70067.31,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000428",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 137636.39,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000429",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 297927.21,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000430",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 99626.97,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000431",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 175082.74,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 123508.2,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000432",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 273902.1,
+    "active_monthly_loan_payments": 21202.41,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000433",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 154114.75,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000434",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 170755.44,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000435",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 99702.1,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000436",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 184410.42,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000437",
@@ -3061,21 +3061,21 @@
   {
     "inn": "7700000438",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 218770.57,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 30
-  },
-  {
-    "inn": "7700000439",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 29181.96,
+    "active_monthly_loan_payments": 287687.45,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000439",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 142099.18,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
+  },
+  {
     "inn": "7700000440",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 137463.92,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3089,14 +3089,14 @@
   {
     "inn": "7700000442",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 185026.56,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 275020.63,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000443",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 100715.95,
+    "active_monthly_loan_payments": 24866.23,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3110,14 +3110,14 @@
   {
     "inn": "7700000445",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 279081.29,
+    "active_monthly_loan_payments": 204740.88,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000446",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 256841.23,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3131,16 +3131,16 @@
   {
     "inn": "7700000448",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 119350.26,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000449",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 276182.96,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 52402.33,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000450",
@@ -3152,28 +3152,28 @@
   {
     "inn": "7700000451",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 293779.22,
+    "active_monthly_loan_payments": 293058.1,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000452",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 205147.2,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 206669.56,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000453",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 151515.97,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000454",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 161342.53,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3187,14 +3187,14 @@
   {
     "inn": "7700000456",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 171185.32,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000457",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 282405.62,
+    "active_monthly_loan_payments": 246674.96,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3208,86 +3208,86 @@
   {
     "inn": "7700000459",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 155907.06,
+    "active_monthly_loan_payments": 179698.99,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000460",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 271021.53,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000461",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 38835.54,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000462",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 60397.81,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 233763.82,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000463",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 153062.1,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000464",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 250639.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000465",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 269269.08,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 64620.38,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000466",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 277192.94,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 121761.59,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000467",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 132185.32,
+    "active_monthly_loan_payments": 54237.51,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000468",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 225848.19,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000469",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 44913.44,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000470",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 247430.08,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000471",
@@ -3299,35 +3299,35 @@
   {
     "inn": "7700000472",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 57297.38,
+    "active_monthly_loan_payments": 38582.83,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000473",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 181226.62,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000474",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 67562.62,
+    "active_monthly_loan_payments": 130178.37,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000475",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 92844.18,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000476",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 229004.05,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3341,21 +3341,21 @@
   {
     "inn": "7700000478",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 36450.65,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000479",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 294773.65,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 291056.19,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000480",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 285277.15,
+    "active_monthly_loan_payments": 264070.28,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3369,21 +3369,21 @@
   {
     "inn": "7700000482",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 211789.34,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 296869.2,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000483",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 163735.61,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000484",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 124596.33,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3397,7 +3397,7 @@
   {
     "inn": "7700000486",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 184418.35,
+    "active_monthly_loan_payments": 290213.81,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3411,49 +3411,49 @@
   {
     "inn": "7700000488",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 208664.88,
+    "active_monthly_loan_payments": 72179.63,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000489",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 244432.51,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000490",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 87936.3,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000491",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 184418.35,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000492",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 194355.07,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000493",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 208664.88,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000494",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 195296.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3474,7 +3474,7 @@
   {
     "inn": "7700000497",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 37782.96,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3488,21 +3488,21 @@
   {
     "inn": "7700000499",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 67953.3,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000500",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 28333.62,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 175912.54,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000501",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 115290.78,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3516,21 +3516,21 @@
   {
     "inn": "7700000503",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 30351.65,
+    "active_monthly_loan_payments": 143625.01,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000504",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 236764.18,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 67953.3,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000505",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 86107.25,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3544,42 +3544,42 @@
   {
     "inn": "7700000507",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 41860.35,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000508",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 161620.05,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000509",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 53842.6,
+    "active_monthly_loan_payments": 115398.49,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000510",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 231836.78,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000511",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 221609.38,
+    "active_monthly_loan_payments": 103776.45,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000512",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 32829.52,
+    "active_monthly_loan_payments": 45829.61,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3593,79 +3593,79 @@
   {
     "inn": "7700000514",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 63915.12,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000515",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 45487.02,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
-  },
-  {
-    "inn": "7700000516",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 47648.38,
+    "active_monthly_loan_payments": 185094.79,
     "delinquency_count_12m": 2,
     "max_delinquency_days_12m": 60
   },
   {
+    "inn": "7700000516",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
+  },
+  {
     "inn": "7700000517",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 28093.8,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000518",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 176618.79,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000519",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 36849.01,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000520",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 215560.21,
+    "active_monthly_loan_payments": 294340.11,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000521",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 59888.95,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000522",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 155568.02,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000523",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 291015.22,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000524",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 278107.0,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000525",
@@ -3677,22 +3677,22 @@
   {
     "inn": "7700000526",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 55908.99,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 148743.82,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000527",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 265481.68,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000528",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 21444.6,
-    "delinquency_count_12m": 1,
+    "active_monthly_loan_payments": 74037.44,
+    "delinquency_count_12m": 3,
     "max_delinquency_days_12m": 10
   },
   {
@@ -3705,37 +3705,37 @@
   {
     "inn": "7700000530",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 145007.73,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 184686.08,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000531",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 126807.54,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000532",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 48753.1,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000533",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 107266.72,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000534",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 161990.2,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 50195.38,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000535",
@@ -3747,42 +3747,42 @@
   {
     "inn": "7700000536",
     "is_synthetic": true,
+    "active_monthly_loan_payments": 230549.74,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 10
+  },
+  {
+    "inn": "7700000537",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 219723.83,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
+  },
+  {
+    "inn": "7700000538",
+    "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
-    "inn": "7700000537",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 101361.34,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 60
-  },
-  {
-    "inn": "7700000538",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 252804.81,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
-  },
-  {
     "inn": "7700000539",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 278763.53,
+    "active_monthly_loan_payments": 86468.46,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000540",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 34912.51,
+    "active_monthly_loan_payments": 181955.01,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000541",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 149994.84,
+    "active_monthly_loan_payments": 225684.13,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3803,16 +3803,16 @@
   {
     "inn": "7700000544",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 43077.18,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000545",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 192487.84,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000546",
@@ -3824,35 +3824,35 @@
   {
     "inn": "7700000547",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 182732.27,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000548",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 181702.37,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000549",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 286738.51,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 127063.86,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000550",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 209030.05,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000551",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 182387.06,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3866,42 +3866,42 @@
   {
     "inn": "7700000553",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 297503.83,
+    "active_monthly_loan_payments": 226585.42,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000554",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 293628.13,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000555",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 215620.53,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000556",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 234630.94,
+    "active_monthly_loan_payments": 166830.8,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000557",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 52111.16,
+    "active_monthly_loan_payments": 263725.74,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000558",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 102360.5,
+    "active_monthly_loan_payments": 246118.43,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -3915,84 +3915,84 @@
   {
     "inn": "7700000560",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 297001.37,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000561",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 171676.74,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000562",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 38852.76,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000563",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 249719.47,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000564",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 192577.63,
+    "active_monthly_loan_payments": 29644.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000565",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 76486.65,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000566",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 77628.88,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 136390.4,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000567",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 68629.23,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 148457.26,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000568",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 261479.15,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000569",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 273807.97,
+    "active_monthly_loan_payments": 275388.91,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000570",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 124866.62,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000571",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 267799.88,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4006,84 +4006,84 @@
   {
     "inn": "7700000573",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 188601.81,
+    "active_monthly_loan_payments": 173677.19,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000574",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 213714.3,
+    "active_monthly_loan_payments": 261479.15,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000575",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 229521.27,
+    "active_monthly_loan_payments": 273807.97,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000576",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 70955.61,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000577",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 30871.53,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000578",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 183084.73,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 138731.29,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000579",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 45845.63,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000580",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 135250.52,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000581",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 47123.79,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000582",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 76263.44,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000583",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 208457.4,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 208385.29,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000584",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 140247.01,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4097,23 +4097,23 @@
   {
     "inn": "7700000586",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 92546.31,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 296130.79,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000587",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 138635.58,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000588",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 188410.32,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 253059.15,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000589",
@@ -4125,28 +4125,28 @@
   {
     "inn": "7700000590",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 82665.74,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000591",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 51187.11,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000592",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 271221.06,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 122206.68,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000593",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 152685.21,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4160,30 +4160,30 @@
   {
     "inn": "7700000595",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 295629.07,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000596",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 219855.08,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000597",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 60550.41,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000598",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 292764.45,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000599",
@@ -4195,14 +4195,14 @@
   {
     "inn": "7700000600",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 103918.58,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000601",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 111064.11,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4216,28 +4216,28 @@
   {
     "inn": "7700000603",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 113384.86,
+    "active_monthly_loan_payments": 230859.24,
     "delinquency_count_12m": 1,
     "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000604",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 107622.09,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000605",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 120538.25,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000606",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 237707.89,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4251,49 +4251,49 @@
   {
     "inn": "7700000608",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 125603.67,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000609",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 33429.72,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000610",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 55383.14,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000611",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 170953.49,
+    "active_monthly_loan_payments": 286732.57,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000612",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 149655.95,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000613",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 164009.21,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000614",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 59164.83,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4307,28 +4307,28 @@
   {
     "inn": "7700000616",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 50725.18,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 226647.2,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000617",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 222281.41,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000618",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 122058.8,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000619",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 75900.18,
+    "active_monthly_loan_payments": 57430.49,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4342,51 +4342,51 @@
   {
     "inn": "7700000621",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 157560.18,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000622",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 183611.62,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 30
-  },
-  {
-    "inn": "7700000623",
-    "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000623",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 132359.28,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
+  },
+  {
     "inn": "7700000624",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 220851.24,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000625",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 274374.95,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000626",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 180131.43,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000627",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 61479.05,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 144815.54,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000628",
@@ -4405,9 +4405,9 @@
   {
     "inn": "7700000630",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 64800.86,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000631",
@@ -4419,7 +4419,7 @@
   {
     "inn": "7700000632",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 167497.99,
+    "active_monthly_loan_payments": 217529.28,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4433,37 +4433,37 @@
   {
     "inn": "7700000634",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 172187.4,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 144895.65,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000635",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 266117.23,
+    "active_monthly_loan_payments": 69765.6,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000636",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 62308.83,
+    "active_monthly_loan_payments": 25800.46,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000637",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 273955.7,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000638",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 110454.96,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 32467.24,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000639",
@@ -4475,7 +4475,7 @@
   {
     "inn": "7700000640",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 140015.95,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4489,21 +4489,21 @@
   {
     "inn": "7700000642",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 182849.98,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000643",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 284328.47,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000644",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 253150.43,
+    "active_monthly_loan_payments": 44430.06,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4517,51 +4517,51 @@
   {
     "inn": "7700000646",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 35308.06,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000647",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 228196.22,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000648",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 294551.66,
+    "active_monthly_loan_payments": 130989.39,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000649",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 184409.14,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000650",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 289826.86,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000651",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 78469.78,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000652",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 67520.94,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000653",
@@ -4580,35 +4580,35 @@
   {
     "inn": "7700000655",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 264764.49,
+    "active_monthly_loan_payments": 194571.81,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000656",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 115878.59,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000657",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 91687.36,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000658",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 43377.35,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000659",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 153139.84,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4629,9 +4629,9 @@
   {
     "inn": "7700000662",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 90579.96,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000663",
@@ -4643,14 +4643,14 @@
   {
     "inn": "7700000664",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 99309.54,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000665",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 61296.24,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4671,14 +4671,14 @@
   {
     "inn": "7700000668",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 192555.02,
+    "active_monthly_loan_payments": 124474.02,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000669",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 181541.45,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4699,44 +4699,44 @@
   {
     "inn": "7700000672",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 270489.34,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 62945.1,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000673",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 103651.4,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000674",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 189711.02,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000675",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 45751.56,
+    "active_monthly_loan_payments": 127073.36,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000676",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 242082.9,
+    "active_monthly_loan_payments": 281793.25,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000677",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 157490.35,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000678",
@@ -4762,37 +4762,37 @@
   {
     "inn": "7700000681",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 181395.87,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
-  },
-  {
-    "inn": "7700000682",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 108813.11,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000682",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 197155.57,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 10
+  },
+  {
     "inn": "7700000683",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 82724.02,
+    "active_monthly_loan_payments": 40339.29,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000684",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 267329.42,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 80889.76,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000685",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 54745.95,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000686",
@@ -4804,14 +4804,14 @@
   {
     "inn": "7700000687",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 49269.72,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 103564.27,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000688",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 138466.32,
+    "active_monthly_loan_payments": 73524.71,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4825,14 +4825,14 @@
   {
     "inn": "7700000690",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 132753.79,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000691",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 83410.2,
+    "active_monthly_loan_payments": 201197.6,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4846,63 +4846,63 @@
   {
     "inn": "7700000693",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 97794.76,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000694",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 79378.49,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000695",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 157385.32,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000696",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 95582.48,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000697",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 287348.03,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 20869.92,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000698",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 41553.58,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000699",
     "is_synthetic": true,
+    "active_monthly_loan_payments": 61043.23,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
+  },
+  {
+    "inn": "7700000700",
+    "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
-    "inn": "7700000700",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 204870.93,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
-  },
-  {
     "inn": "7700000701",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 152489.77,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4916,35 +4916,35 @@
   {
     "inn": "7700000703",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 143732.37,
+    "active_monthly_loan_payments": 291082.85,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000704",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 87940.78,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 147080.29,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000705",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 95648.96,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 44080.97,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000706",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 107006.02,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000707",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 62846.18,
+    "active_monthly_loan_payments": 265258.01,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4958,14 +4958,14 @@
   {
     "inn": "7700000709",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 207622.18,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000710",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 147983.04,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -4979,9 +4979,9 @@
   {
     "inn": "7700000712",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 35582.89,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000713",
@@ -5007,63 +5007,63 @@
   {
     "inn": "7700000716",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 198470.82,
+    "active_monthly_loan_payments": 203661.35,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000717",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 29306.97,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000718",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 271931.61,
+    "active_monthly_loan_payments": 49741.72,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000719",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 283372.91,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000720",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 215305.01,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
-  },
-  {
-    "inn": "7700000721",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 158195.43,
+    "active_monthly_loan_payments": 90698.58,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
-    "inn": "7700000722",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 31687.47,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 30
-  },
-  {
-    "inn": "7700000723",
+    "inn": "7700000721",
     "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000722",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 118589.69,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
+  },
+  {
+    "inn": "7700000723",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 82725.94,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
+  },
+  {
     "inn": "7700000724",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 74220.78,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5077,14 +5077,14 @@
   {
     "inn": "7700000726",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 90055.68,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000727",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 117057.93,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5105,7 +5105,7 @@
   {
     "inn": "7700000730",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 190447.0,
+    "active_monthly_loan_payments": 101875.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5119,51 +5119,51 @@
   {
     "inn": "7700000732",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 243884.9,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000733",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 205017.41,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 254171.06,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000734",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 105441.46,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000735",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 224183.32,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000736",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 221129.4,
+    "active_monthly_loan_payments": 126761.49,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000737",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 111431.35,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000738",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 256411.09,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000739",
@@ -5175,28 +5175,28 @@
   {
     "inn": "7700000740",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 74606.61,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000741",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 161580.16,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 139413.09,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000742",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 92878.11,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000743",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 233531.31,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5210,28 +5210,28 @@
   {
     "inn": "7700000745",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 145931.04,
+    "active_monthly_loan_payments": 288130.39,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000746",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 109722.33,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 60
-  },
-  {
-    "inn": "7700000747",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 247916.41,
+    "active_monthly_loan_payments": 274594.41,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000747",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 147139.36,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
+  },
+  {
     "inn": "7700000748",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 55686.84,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5252,21 +5252,21 @@
   {
     "inn": "7700000751",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 161976.85,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000752",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 184176.14,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000753",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 38833.15,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5280,44 +5280,44 @@
   {
     "inn": "7700000755",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 89270.95,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 141034.47,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000756",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 162096.47,
+    "active_monthly_loan_payments": 212622.52,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000757",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 284085.46,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000758",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 176166.41,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000759",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 243088.93,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000760",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 109293.67,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000761",
@@ -5329,9 +5329,9 @@
   {
     "inn": "7700000762",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 252812.08,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 180301.6,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000763",
@@ -5343,21 +5343,21 @@
   {
     "inn": "7700000764",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 235937.62,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000765",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 254659.71,
+    "active_monthly_loan_payments": 54619.99,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000766",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 177474.66,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5385,21 +5385,21 @@
   {
     "inn": "7700000770",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 158156.97,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000771",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 63806.85,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000772",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 75262.93,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5413,9 +5413,9 @@
   {
     "inn": "7700000774",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 153129.92,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 149606.45,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000775",
@@ -5434,42 +5434,42 @@
   {
     "inn": "7700000777",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 124777.64,
+    "active_monthly_loan_payments": 48650.19,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000778",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 154045.76,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 80604.17,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000779",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 123469.48,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000780",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 258721.24,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000781",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 206962.29,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000782",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 115606.7,
+    "active_monthly_loan_payments": 184132.75,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5483,7 +5483,7 @@
   {
     "inn": "7700000784",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 178211.19,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5497,28 +5497,28 @@
   {
     "inn": "7700000786",
     "is_synthetic": true,
+    "active_monthly_loan_payments": 233162.06,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
+  },
+  {
+    "inn": "7700000787",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 254109.58,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
+  },
+  {
+    "inn": "7700000788",
+    "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
-    "inn": "7700000787",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 125814.84,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
-  },
-  {
-    "inn": "7700000788",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 72125.0,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 90
-  },
-  {
     "inn": "7700000789",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 281731.24,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5532,128 +5532,128 @@
   {
     "inn": "7700000791",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 267227.33,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000792",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 79497.73,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000793",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 130278.1,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 150715.55,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000794",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 104542.62,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000795",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 212098.37,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000796",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 245995.03,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000797",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 285496.34,
+    "active_monthly_loan_payments": 151824.19,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000798",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 139196.71,
+    "active_monthly_loan_payments": 208929.89,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000799",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 169795.86,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 187767.65,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000800",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 293516.13,
+    "active_monthly_loan_payments": 93085.46,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000801",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 161951.72,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000802",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 169806.77,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000803",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 187742.25,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 33592.21,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000804",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 280364.35,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
-  },
-  {
-    "inn": "7700000805",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 295785.22,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 60
-  },
-  {
-    "inn": "7700000806",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 228334.57,
+    "active_monthly_loan_payments": 198075.16,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
-    "inn": "7700000807",
+    "inn": "7700000805",
     "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
-    "inn": "7700000808",
+    "inn": "7700000806",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 169975.57,
+    "active_monthly_loan_payments": 279683.35,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
+  },
+  {
+    "inn": "7700000807",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 163931.08,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
+  },
+  {
+    "inn": "7700000808",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 99775.5,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000809",
@@ -5665,30 +5665,30 @@
   {
     "inn": "7700000810",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 26393.41,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 169027.3,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000811",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 222456.83,
+    "active_monthly_loan_payments": 194961.56,
     "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000812",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 189121.9,
+    "active_monthly_loan_payments": 297796.65,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000813",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 220473.44,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000814",
@@ -5700,7 +5700,7 @@
   {
     "inn": "7700000815",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 112407.19,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5714,63 +5714,63 @@
   {
     "inn": "7700000817",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 28649.13,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000818",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 289492.73,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000819",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 126364.26,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000820",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 228951.84,
+    "active_monthly_loan_payments": 251064.01,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000821",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 243416.99,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 88523.96,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000822",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 228070.93,
+    "active_monthly_loan_payments": 220434.27,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000823",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 52593.79,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 183585.74,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000824",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 126364.26,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000825",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 209795.92,
+    "active_monthly_loan_payments": 228951.84,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5784,14 +5784,14 @@
   {
     "inn": "7700000827",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 190667.47,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000828",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 170341.42,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5805,63 +5805,63 @@
   {
     "inn": "7700000830",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 110116.82,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000831",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 291917.29,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000832",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 84904.78,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000833",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 168687.69,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000834",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 229342.08,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 119101.4,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000835",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 170866.63,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 217214.89,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000836",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 111135.25,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000837",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 170610.8,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000838",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 111795.79,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5875,9 +5875,9 @@
   {
     "inn": "7700000840",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 119496.53,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 130966.23,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000841",
@@ -5889,49 +5889,49 @@
   {
     "inn": "7700000842",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 91479.67,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 40463.4,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000843",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 200202.95,
+    "active_monthly_loan_payments": 102267.86,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000844",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 244666.48,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000845",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 65464.64,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 108294.15,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000846",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 125570.3,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000847",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 188915.91,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 231849.78,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000848",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 56346.13,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5952,35 +5952,35 @@
   {
     "inn": "7700000851",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 65464.64,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000852",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 187582.09,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000853",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 51118.35,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000854",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 255203.59,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000855",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 210511.13,
+    "active_monthly_loan_payments": 204623.42,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -5994,21 +5994,21 @@
   {
     "inn": "7700000857",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 134905.15,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 196039.62,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000858",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 264151.91,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000859",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 54962.06,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6022,14 +6022,14 @@
   {
     "inn": "7700000861",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 285205.78,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000862",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 48316.68,
+    "active_monthly_loan_payments": 288535.89,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6043,21 +6043,21 @@
   {
     "inn": "7700000864",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 130248.63,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 253612.13,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000865",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 284865.93,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 204918.0,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000866",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 101509.94,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6071,14 +6071,14 @@
   {
     "inn": "7700000868",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 245651.3,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000869",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 45351.82,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6092,14 +6092,14 @@
   {
     "inn": "7700000871",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 247227.09,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 277787.51,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000872",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 93217.84,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6113,58 +6113,58 @@
   {
     "inn": "7700000874",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 142575.35,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000875",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 45351.82,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000876",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 130948.88,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000877",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 247227.09,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000878",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 93217.84,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000879",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 107134.71,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 170717.12,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000880",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 142603.87,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000881",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 198214.89,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 271028.1,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000882",
@@ -6176,63 +6176,63 @@
   {
     "inn": "7700000883",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 74084.72,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 60
-  },
-  {
-    "inn": "7700000884",
-    "is_synthetic": true,
-    "active_monthly_loan_payments": 36414.77,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000884",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 214996.22,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 30
+  },
+  {
     "inn": "7700000885",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 233786.33,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000886",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 252752.02,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000887",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 69539.92,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000888",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 179920.69,
+    "active_monthly_loan_payments": 70516.69,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000889",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 88942.21,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000890",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 167654.5,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000891",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 49209.18,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6246,9 +6246,9 @@
   {
     "inn": "7700000893",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 165103.16,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000894",
@@ -6260,7 +6260,7 @@
   {
     "inn": "7700000895",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 126409.62,
+    "active_monthly_loan_payments": 276923.43,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6274,9 +6274,9 @@
   {
     "inn": "7700000897",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 20957.87,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000898",
@@ -6288,28 +6288,28 @@
   {
     "inn": "7700000899",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 298756.37,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000900",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 133621.86,
+    "active_monthly_loan_payments": 281412.37,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000901",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 62867.3,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000902",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 211733.59,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6323,16 +6323,16 @@
   {
     "inn": "7700000904",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 157357.45,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000905",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 103960.15,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000906",
@@ -6351,28 +6351,28 @@
   {
     "inn": "7700000908",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 127601.34,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000909",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 108617.39,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000910",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 90760.42,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000911",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 42468.37,
+    "active_monthly_loan_payments": 48419.86,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6400,14 +6400,14 @@
   {
     "inn": "7700000915",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 277040.61,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000916",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 298627.08,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6421,7 +6421,7 @@
   {
     "inn": "7700000918",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 139426.53,
+    "active_monthly_loan_payments": 43325.72,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6435,21 +6435,21 @@
   {
     "inn": "7700000920",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 120271.51,
+    "active_monthly_loan_payments": 54153.95,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000921",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 75243.93,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000922",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 23906.05,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6491,58 +6491,58 @@
   {
     "inn": "7700000928",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 168185.96,
+    "active_monthly_loan_payments": 46556.94,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000929",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 193782.71,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000930",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 243677.58,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 106242.15,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000931",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 63953.96,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 136760.16,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000932",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 108275.24,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000933",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 220835.66,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000934",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 136578.82,
+    "active_monthly_loan_payments": 193782.71,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000935",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 243677.58,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000936",
@@ -6554,28 +6554,28 @@
   {
     "inn": "7700000937",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 262966.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000938",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 74816.28,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000939",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 119982.69,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000940",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 86994.31,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6589,7 +6589,7 @@
   {
     "inn": "7700000942",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 216510.78,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6603,58 +6603,58 @@
   {
     "inn": "7700000944",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 49884.29,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000945",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 38244.17,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000946",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 244543.48,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 30
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000947",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 44756.48,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000948",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 101885.87,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000949",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 280692.06,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000950",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 250564.14,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 209845.39,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000951",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 264157.64,
+    "delinquency_count_12m": 2,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000952",
@@ -6673,72 +6673,72 @@
   {
     "inn": "7700000954",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 187317.04,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000955",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 243392.89,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000956",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 218730.83,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000957",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 253617.8,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000958",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 278994.53,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000959",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 187317.04,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000960",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 243392.89,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000961",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 218354.47,
+    "active_monthly_loan_payments": 88709.07,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000962",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 55947.56,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000963",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 272633.29,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 10
   },
   {
     "inn": "7700000964",
@@ -6757,9 +6757,9 @@
   {
     "inn": "7700000966",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 216573.37,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000967",
@@ -6771,23 +6771,23 @@
   {
     "inn": "7700000968",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 177272.27,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 162854.89,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 60
   },
   {
     "inn": "7700000969",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 197351.04,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000970",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 83095.77,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700000971",
@@ -6806,79 +6806,79 @@
   {
     "inn": "7700000973",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 88777.47,
+    "active_monthly_loan_payments": 263924.53,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000974",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 158615.57,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 95950.34,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 30
   },
   {
     "inn": "7700000975",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 54416.65,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000976",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 114529.65,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000977",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 245598.89,
+    "active_monthly_loan_payments": 54840.2,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000978",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 66379.92,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 139758.04,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000979",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 239483.78,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000980",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 143813.05,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 10
+    "active_monthly_loan_payments": 0.0,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000981",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 179947.28,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000982",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 117504.41,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 90
+    "active_monthly_loan_payments": 182298.52,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000983",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 214687.58,
-    "delinquency_count_12m": 1,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 266905.77,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000984",
@@ -6904,21 +6904,21 @@
   {
     "inn": "7700000987",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 50765.33,
-    "delinquency_count_12m": 3,
-    "max_delinquency_days_12m": 10
-  },
-  {
-    "inn": "7700000988",
-    "is_synthetic": true,
     "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
+    "inn": "7700000988",
+    "is_synthetic": true,
+    "active_monthly_loan_payments": 66656.06,
+    "delinquency_count_12m": 1,
+    "max_delinquency_days_12m": 10
+  },
+  {
     "inn": "7700000989",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 103563.81,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6932,21 +6932,21 @@
   {
     "inn": "7700000991",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 218858.57,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000992",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 281513.61,
+    "active_monthly_loan_payments": 0.0,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000993",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
+    "active_monthly_loan_payments": 40556.78,
     "delinquency_count_12m": 0,
     "max_delinquency_days_12m": 0
   },
@@ -6960,9 +6960,9 @@
   {
     "inn": "7700000995",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 276198.55,
-    "delinquency_count_12m": 2,
-    "max_delinquency_days_12m": 60
+    "active_monthly_loan_payments": 34376.95,
+    "delinquency_count_12m": 0,
+    "max_delinquency_days_12m": 0
   },
   {
     "inn": "7700000996",
@@ -6988,9 +6988,9 @@
   {
     "inn": "7700000999",
     "is_synthetic": true,
-    "active_monthly_loan_payments": 0.0,
-    "delinquency_count_12m": 0,
-    "max_delinquency_days_12m": 0
+    "active_monthly_loan_payments": 233390.45,
+    "delinquency_count_12m": 3,
+    "max_delinquency_days_12m": 90
   },
   {
     "inn": "7700001000",

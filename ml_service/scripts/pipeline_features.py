@@ -19,9 +19,9 @@ def save_json(filepath, data):
 def run_feature_pipeline():
     print("--- Запуск пайплайна: JSON -> company_features.json ---")
 
-    companies = load_json("../data/companies.json")
-    statements_data = load_json("../data/financial_statements.json")
-    credit_data = load_json("../data/credit_history.json")
+    companies = load_json("../data/egrul.json")
+    statements_data = load_json("../data/fns.json")
+    credit_data = load_json("../data/bki.json")
 
     statements_map = {item["inn"]: item["statements"] for item in statements_data}
     credit_map = {item["inn"]: item for item in credit_data}

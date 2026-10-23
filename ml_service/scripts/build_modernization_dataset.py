@@ -19,25 +19,35 @@ def calculate_annuity_payment(principal, annual_rate, months):
 
 
 def build_modernization_csv():
-    print("--- Запуск сборщика датасета: Кредит на Модернизацию ---")
+    print("--- Запуск сборщика датасета: Кредит на Модернизацию (по данным applications.json) ---")
 
+    # Загружаем оба файла
     features_list = load_json("../data/company_features.json")
-    if not features_list:
-        print("[ОШИБКА] Сначала заполни company_features.json!")
+    applications_list = load_json("../data/applications.json")
+
+    if not features_list or not applications_list:
+        print("[ОШИБКА] Проверьте наличие company_features.json и applications.json!")
         return
+
+    # Создаем быстрый поиск фичей компании по ИНН
+    features_map = {comp["inn"]: comp for comp in features_list}
 
     dataset_rows = []
 
-    for comp in features_list:
-        # ПЕРВИЧНЫЙ ФИЛЬТР: стаж >= 12 месяцев
-        if comp["business_age_months"] < 12:
+    for app in applications_list:
+        # Берем только заявки на модернизацию
+        if app.get("product_type") != "modernization":
             continue
 
-        # Параметры льготного кредита на модернизацию
-        max_possible_loan = min(5_000_000, comp["avg_monthly_revenue_12m"] * 5)
-        requested_amount = np.random.uniform(500_000, max(600_000, max_possible_loan))
+        inn = app["inn"]
+        if inn not in features_map:
+            continue
 
-        requested_term_months = np.random.choice([12, 24, 36])  # Срок: 1 – 3 года
+        comp = features_map[inn]
+
+        # Параметры берем напрямую из заявки
+        requested_amount = app["amount"]
+        requested_term_months = app["term"]
         annual_interest_rate = 10.0  # Льготная ставка 10%
 
         new_monthly_loan_payment = calculate_annuity_payment(
@@ -56,7 +66,7 @@ def build_modernization_csv():
             risk_score += 2
 
         # Для модернизации критично, чтобы операционная прибыль была положительной
-        if comp["total_operating_profit_12m"] < 0:
+        if comp.get("total_operating_profit_12m", 0) < 0:
             risk_score += 4
 
         if comp["delinquency_count_12m"] > 0:
@@ -73,6 +83,8 @@ def build_modernization_csv():
         target_default_12m = 1 if effective_score >= 7.5 else 0
 
         dataset_rows.append({
+            "application_id": app.get("application_id"),
+            "inn": inn,
             "business_age_months": comp["business_age_months"],
             "avg_monthly_revenue_12m": comp["avg_monthly_revenue_12m"],
             "revenue_growth_rate": comp["revenue_growth_rate"],
@@ -94,7 +106,8 @@ def build_modernization_csv():
 
     print(f"[УСПЕХ] Датасет для модернизации сохранен: {output_filename}")
     print(f"Всего строк: {len(df)}")
-    print(f"Доля дефолтов: {df['target_default_12m'].mean() * 100:.2f}%\n")
+    if not df.empty:
+        print(f"Доля дефолтов: {df['target_default_12m'].mean() * 100:.2f}%\n")
 
 
 if __name__ == "__main__":

@@ -19,19 +19,34 @@ def calculate_annuity_payment(principal, annual_rate, months):
 
 
 def build_training_csv():
-    print("--- Запуск сборщика датасета с реалистичным уровнем дефолтов ---")
+    print("--- Запуск сборщика датасета: Оборотный кредит (по данным applications.json) ---")
 
+    # Загружаем оба файла
     features_list = load_json("../data/company_features.json")
-    if not features_list:
-        print("[ОШИБКА] Сначала заполни company_features.json!")
+    applications_list = load_json("../data/applications.json")
+
+    if not features_list or not applications_list:
+        print("[ОШИБКА] Проверьте наличие company_features.json и applications.json!")
         return
+
+    features_map = {comp["inn"]: comp for comp in features_list}
 
     dataset_rows = []
 
-    for comp in features_list:
-        # Генерируем параметры заявки на оборотный кредит
-        requested_amount = np.random.uniform(100_000, 3_000_000)
-        requested_term_months = np.random.choice([3, 6, 12, 18, 24])
+    for app in applications_list:
+        # Берем только заявки на оборотный кредит
+        if app.get("product_type") != "working_capital":
+            continue
+
+        inn = app["inn"]
+        if inn not in features_map:
+            continue
+
+        comp = features_map[inn]
+
+        # Параметры берем напрямую из заявки
+        requested_amount = app["amount"]
+        requested_term_months = app["term"]
         annual_interest_rate = 16.0
 
         new_monthly_loan_payment = calculate_annuity_payment(
@@ -54,7 +69,7 @@ def build_training_csv():
         if comp["max_delinquency_days_12m"] > 30:
             risk_score += 4
 
-        if comp["revenue_growth_rate"] < -0.05:  # Смягчим падение до 5%
+        if comp["revenue_growth_rate"] < -0.05:
             risk_score += 2
         if comp["revenue_volatility_std"] > comp["avg_monthly_revenue_12m"] * 0.20:
             risk_score += 1
@@ -65,7 +80,10 @@ def build_training_csv():
         noise = np.random.normal(0, 0.6)
         effective_score = risk_score + noise
         target_default_12m = 1 if effective_score >= 7.0 else 0
+
         dataset_rows.append({
+            "application_id": app.get("application_id"),
+            "inn": inn,
             "business_age_months": comp["business_age_months"],
             "avg_monthly_revenue_12m": comp["avg_monthly_revenue_12m"],
             "revenue_growth_rate": comp["revenue_growth_rate"],
@@ -87,7 +105,8 @@ def build_training_csv():
 
     print(f"[УСПЕХ] Обучающий датасет обновлен: {output_filename}")
     print(f"Всего строк: {len(df)}")
-    print(f"Доля дефолтов: {df['target_default_12m'].mean() * 100:.2f}%\n")
+    if not df.empty:
+        print(f"Доля дефолтов: {df['target_default_12m'].mean() * 100:.2f}%\n")
 
 
 if __name__ == "__main__":

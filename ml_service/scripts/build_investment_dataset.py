@@ -19,25 +19,37 @@ def calculate_annuity_payment(principal, annual_rate, months):
 
 
 def build_investment_csv():
-    print("--- Запуск сборщика датасета: Инвестиционный кредит (сбалансированный) ---")
+    print("--- Запуск сборщика датасета: Инвестиционный кредит (по данным applications.json) ---")
 
+    # Загружаем оба файла
     features_list = load_json("../data/company_features.json")
-    if not features_list:
-        print("[ОШИБКА] Сначала заполни company_features.json!")
+    applications_list = load_json("../data/applications.json")
+
+    if not features_list or not applications_list:
+        print("[ОШИБКА] Проверьте наличие company_features.json и applications.json!")
         return
+
+    # Создаем быстрый доступ к фичам компаний по ИНН (словарь)
+    features_map = {comp["inn"]: comp for comp in features_list}
 
     dataset_rows = []
 
-    for comp in features_list:
-        # ПЕРВИЧНЫЙ ФИЛЬТР: стаж >= 12 месяцев
-        if comp["business_age_months"] < 12:
+    for app in applications_list:
+        # Берем только инвестиционные кредиты
+        if app.get("product_type") != "investment":
             continue
 
-        # Адаптируем суммы под масштаб выручки компании (от 500 тыс. до 4 млн ₽)
-        max_possible_loan = min(4_000_000, comp["avg_monthly_revenue_12m"] * 6)
-        requested_amount = np.random.uniform(300_000, max(500_000, max_possible_loan))
+        inn = app["inn"]
 
-        requested_term_months = np.random.choice([12, 24, 36, 48, 60])  # Срок: 12 – 60 мес.
+        # Если для заявки не нашлось фичей компании, пропускаем
+        if inn not in features_map:
+            continue
+
+        comp = features_map[inn]
+
+        # Бедем параметры строго из поданной заявки
+        requested_amount = app["amount"]
+        requested_term_months = app["term"]
         annual_interest_rate = 14.0  # Ставка 14%
 
         new_monthly_loan_payment = calculate_annuity_payment(
@@ -65,12 +77,14 @@ def build_investment_csv():
         if comp["revenue_volatility_std"] > comp["avg_monthly_revenue_12m"] * 0.25:
             risk_score += 1
 
-        # Порог дефолта поднят, чтобы доля была ~15-20%
+        # Порог дефолта, чтобы доля была ~15-20%
         noise = np.random.normal(0, 0.7)
         effective_score = risk_score + noise
         target_default_12m = 1 if effective_score >= 6.3 else 0
 
         dataset_rows.append({
+            "application_id": app.get("application_id"),
+            "inn": inn,
             "business_age_months": comp["business_age_months"],
             "avg_monthly_revenue_12m": comp["avg_monthly_revenue_12m"],
             "revenue_growth_rate": comp["revenue_growth_rate"],
@@ -92,7 +106,8 @@ def build_investment_csv():
 
     print(f"[УСПЕХ] Датасет для инвестиционного кредита сохранен: {output_filename}")
     print(f"Всего строк: {len(df)}")
-    print(f"Доля дефолтов: {df['target_default_12m'].mean() * 100:.2f}%\n")
+    if not df.empty:
+        print(f"Доля дефолтов: {df['target_default_12m'].mean() * 100:.2f}%\n")
 
 
 if __name__ == "__main__":
