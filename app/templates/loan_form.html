@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Заявка на кредит</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --alfa-red: #EF3124;
+            --alfa-black: #000000;
+            --alfa-white: #FFFFFF;
+            --alfa-platinum: #F3F4F6;
+        }
+        body { font-family: 'Inter', sans-serif; background-color: var(--alfa-platinum); margin: 0; padding: 40px; }
+
+        .btn-my-apps {
+            text-decoration: none; color: var(--alfa-black); font-weight: 600;
+            border: 2px solid #E5E7EB; padding: 10px 20px; border-radius: 10px;
+            transition: 0.2s; background: white; display: inline-block;
+        }
+        .btn-my-apps:hover { border-color: var(--alfa-red); color: var(--alfa-red); }
+
+        .container { max-width: 700px; margin: auto; background: var(--alfa-white); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); padding: 40px; position: relative; }
+        h1 { color: var(--alfa-black); font-weight: 700; margin-bottom: 10px; }
+        .subtitle { color: #666; margin-bottom: 30px; }
+        .section-title { font-weight: 600; font-size: 18px; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid var(--alfa-red); padding-bottom: 8px; display: inline-block; }
+
+        .form-row { display: flex; gap: 20px; margin-bottom: 20px; }
+        .form-group { flex: 1; display: flex; flex-direction: column; }
+        label { margin-bottom: 8px; font-weight: 600; font-size: 14px; color: var(--alfa-black); }
+
+        /* Стили для полей */
+        input, select { padding: 12px; border: 2px solid #E5E7EB; border-radius: 10px; font-family: 'Inter', sans-serif; font-size: 16px; transition: border-color 0.2s; width: 100%; box-sizing: border-box; }
+        input:focus, select:focus { outline: none; border-color: var(--alfa-red); }
+
+        /* Блок ввода суммы */
+        .amount-container { display: flex; gap: 5px; }
+        .amount-btn {
+            background-color: #F3F4F6; border: 2px solid #E5E7EB; border-radius: 10px;
+            width: 45px; font-size: 20px; font-weight: bold; cursor: pointer;
+            color: var(--alfa-black); transition: 0.2s; padding: 0;
+        }
+        .amount-btn:hover { background-color: #E5E7EB; }
+        #amount { text-align: center; font-weight: 600; font-size: 18px; }
+
+        /* Слайдер срока */
+        .slider-container { display: flex; align-items: center; gap: 15px; }
+        input[type=range] { flex: 1; padding: 0; border: none; -webkit-appearance: none; background: transparent; }
+        input[type=range]:focus { outline: none; }
+        input[type=range]::-webkit-slider-runnable-track { width: 100%; height: 8px; cursor: pointer; background: #E5E7EB; border-radius: 5px; }
+        input[type=range]::-webkit-slider-thumb { height: 24px; width: 24px; border-radius: 50%; background: var(--alfa-red); cursor: pointer; -webkit-appearance: none; margin-top: -8px; }
+        .term-value { font-weight: 700; font-size: 16px; color: var(--alfa-red); min-width: 120px; text-align: right; }
+
+        .checkbox-group { display: flex; align-items: flex-start; gap: 10px; margin-top: 20px; margin-bottom: 20px; }
+        .checkbox-group input { width: auto; margin-top: 5px; cursor: pointer; }
+        .checkbox-group label { font-weight: 400; font-size: 14px; color: #555; cursor: pointer; }
+
+        button[type="submit"] { width: 100%; padding: 16px; background-color: var(--alfa-red); color: var(--alfa-white); border: none; border-radius: 10px; font-size: 18px; font-weight: 600; cursor: pointer; margin-top: 10px; transition: background-color 0.2s; }
+        button[type="submit"]:hover { background-color: #d12a1e; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div style="position: absolute; top: 40px; right: 40px;">
+            <a href="/my_applications?full_name={{ full_name }}" class="btn-my-apps">Мои заявки</a>
+        </div>
+
+        <h1>Кредит наличными</h1>
+        <p class="subtitle">Заполните заявку, и мы примем решение за 2 минуты.</p>
+
+        <form action="/submit-application" method="post" id="loanForm">
+
+            <div class="section-title">Параметры кредита</div>
+
+            <div class="form-group" style="margin-bottom: 20px;">
+                <label for="inn">ИНН</label>
+                <input type="text" id="inn" name="inn" pattern="\d{10}|\d{12}" maxlength="12" placeholder="Введите 10 или 12 цифр" required>
+                <small style="color: #666; margin-top: 5px; font-size: 12px;">На основании ИНН мы автоматически запросим данные из ФНС</small>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="amount">Сумма кредита (₽)</label>
+                    <div class="amount-container">
+                        <button type="button" class="amount-btn" onclick="updateAmount(-100000)">−</button>
+                        <input type="text" id="amount" name="amount" value="100 000" inputmode="numeric" required>
+                        <button type="button" class="amount-btn" onclick="updateAmount(100000)">+</button>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="term">Срок кредита</label>
+                    <div class="slider-container">
+                        <input type="range" id="term" name="term" min="6" max="180" value="12" step="6" oninput="document.getElementById('termValue').innerText = formatTerm(this.value)">
+                        <span class="term-value" id="termValue">1 год</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="purposeSelect">Цель кредита</label>
+                <select id="purposeSelect" name="purpose" onchange="toggleOtherPurpose()" required>
+                    <option value="" disabled selected>Выберите цель кредита</option>
+                    <option value="Ремонт дома/квартиры">Ремонт дома/квартиры</option>
+                    <option value="Покупка товаров/услуг">Покупка товаров/услуг</option>
+                    <option value="Покупка автомобиля">Покупка автомобиля</option>
+                    <option value="Возврат долга/кредита">Возврат долга/кредита</option>
+                    <option value="Развитие бизнеса">Развитие бизнеса</option>
+                    <option value="Другое">Другое (ввести вручную)</option>
+                </select>
+                <input type="text" id="purposeOther" placeholder="Введите вашу цель" style="display: none; margin-top: 10px;">
+            </div>
+
+            <div class="section-title">Контактные данные</div>
+            <div class="form-group">
+                <label for="full_name">Фамилия, имя и отчество</label>
+                <input type="text" id="full_name" name="full_name" value="{{ full_name }}" placeholder="Иванов Иван Иванович" required>
+            </div>
+
+            <div class="form-row" style="margin-top: 25px;">
+                <div class="form-group">
+                    <label for="phone">Мобильный телефон</label>
+                    <input type="tel" id="phone" name="phone" placeholder="+7 (900) 000-00-00" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Электронная почта</label>
+                    <input type="email" id="email" name="email" placeholder="ivan@example.com" required>
+                </div>
+            </div>
+
+            <div class="checkbox-group">
+                <input type="checkbox" id="consent" required>
+                <label for="consent">Я согласен с условиями и даю своё согласие на обработку персональных данных</label>
+            </div>
+
+            <button type="submit">Отправить заявку</button>
+        </form>
+    </div>
+
+    <script>
+        // --- 1. Работа с суммой кредита ---
+        const amountInput = document.getElementById('amount');
+        const MIN_AMOUNT = 30000;
+        const MAX_AMOUNT = 30000000;
+        const STEP = 100000;
+
+        // Форматирование при ручном вводе (добавляет пробелы)
+        amountInput.addEventListener('input', function(e) {
+            let digits = this.value.replace(/\D/g, ''); // Оставляем только цифры
+            if (digits) {
+                this.value = new Intl.NumberFormat('ru-RU').format(digits);
+            } else {
+                this.value = '';
+            }
+        });
+
+        // Изменение суммы по кнопкам + и -
+        function updateAmount(change) {
+            let currentVal = parseInt(amountInput.value.replace(/\D/g, '')) || 0;
+            let newVal = currentVal + change;
+
+            // Проверка границ
+            if (newVal < MIN_AMOUNT) newVal = MIN_AMOUNT;
+            if (newVal > MAX_AMOUNT) newVal = MAX_AMOUNT;
+
+            amountInput.value = new Intl.NumberFormat('ru-RU').format(newVal);
+        }
+
+        // Перед отправкой формы убираем пробелы, чтобы Python получил чистое число
+        document.getElementById('loanForm').addEventListener('submit', function() {
+            amountInput.value = amountInput.value.replace(/\s/g, '');
+        });
+
+        // --- 2. Работа со сроком ---
+        function formatTerm(val) {
+            val = parseInt(val);
+            if (val < 12) return val + " мес.";
+            let years = Math.floor(val / 12);
+            let months = val % 12;
+            let yearWord = "лет";
+            if (years % 10 === 1 && years % 100 !== 11) yearWord = "год";
+            else if ([2, 3, 4].includes(years % 10) && ![12, 13, 14].includes(years % 100)) yearWord = "года";
+            return years + " " + yearWord + (months > 0 ? " " + months + " мес." : "");
+        }
+
+        // --- 3. Работа с целью ---
+        function toggleOtherPurpose() {
+            const select = document.getElementById('purposeSelect');
+            const otherInput = document.getElementById('purposeOther');
+            if (select.value === 'Другое') {
+                otherInput.style.display = 'block';
+                otherInput.required = true;
+                select.removeAttribute('name');
+                otherInput.setAttribute('name', 'purpose');
+            } else {
+                otherInput.style.display = 'none';
+                otherInput.required = false;
+                otherInput.removeAttribute('name');
+                select.setAttribute('name', 'purpose');
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Вход в Умный кредитный кабинет</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --alfa-red: #EF3124;
+            --alfa-black: #000000;
+            --alfa-white: #FFFFFF;
+            --alfa-platinum: #D1D5D8;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--alfa-platinum);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .login-card {
+            background-color: var(--alfa-white);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 400px;
+        }
+        h1 {
+            color: var(--alfa-black);
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: 700;
+        }
+        .logo {
+            text-align: center;
+            font-size: 32px;
+            font-weight: 700;
+            color: var(--alfa-red);
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: var(--alfa-black);
+            font-weight: 600;
+        }
+        input {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 20px;
+            border: 2px solid var(--alfa-platinum);
+            border-radius: 8px;
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+        }
+        input:focus {
+            outline: none;
+            border-color: var(--alfa-red);
+        }
+        button {
+            width: 100%;
+            padding: 14px;
+            background-color: var(--alfa-red);
+            color: var(--alfa-white);
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #d12a1e;
+        }
+        .error {
+            color: var(--alfa-red);
+            text-align: center;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-card">
+        <div class="logo">Альфа Банк</div>
+        <h1>Вход в кабинет</h1>
+        
+        {% if error %}
+            <div class="error">{{ error }}</div>
+        {% endif %}
+
+        <form action="/login" method="post">
+            <label for="username">Логин</label>
+            <input type="text" id="username" name="username" required placeholder="Имя Фамилия">
+            <label for="password">Пароль</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Войти</button>
+        </form>
+    </div>
+</body>
+</html>

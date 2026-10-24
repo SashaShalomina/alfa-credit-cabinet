@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Заявка на кредит</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f9; padding: 40px; }
+        .container { max-width: 500px; margin: auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        h2 { color: #333; }
+        label { display: block; margin-top: 15px; font-weight: bold; color: #555; }
+        input { width: 100%; padding: 10px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+        button { margin-top: 20px; width: 100%; padding: 12px; background-color: #28a745; color: white; border: none; border-radius: 4px; font-size: 16px; cursor: pointer; }
+        button:hover { background-color: #218838; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Заявка на кредит для бизнеса</h2>
+        <form action="/submit-application" method="post">
+            <label for="company_name">Название компании:</label>
+            <input type="text" id="company_name" name="company_name" required>
+
+            <label for="inn">ИНН (10 цифр):</label>
+            <input type="text" id="inn" name="inn" pattern="\d{10}" required>
+
+            <label for="amount">Сумма кредита (руб.):</label>
+            <input type="number" id="amount" name="amount" min="1000" required>
+
+            <label for="term_months">Срок (в месяцах):</label>
+            <input type="number" id="term_months" name="term_months" min="1" max="60" required>
+
+            <label for="purpose">Цель кредита:</label>
+            <input type="text" id="purpose" name="purpose" required>
+
+            <button type="submit">Отправить заявку</button>
+        </form>
+    </div>
+</body>
+</html>
